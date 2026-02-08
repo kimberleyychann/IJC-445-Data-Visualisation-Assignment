@@ -10,8 +10,8 @@ library(stringr)
 library(patchwork)
 
 #loading datasets
-pm_raw <- read_csv("sheffieldpm2.5.csv", show_col_types = FALSE)
-meteo_raw <- read_csv("openmeteo_tempandwind.csv", show_col_types = FALSE)
+pm_raw <- read_csv("data/sheffieldpm2.5.csv", show_col_types = FALSE)
+meteo_raw <- read_csv("data/openmeteo_tempandwind.csv", show_col_types = FALSE)
 
 names(pm_raw)
 names(meteo_raw)
