@@ -3,6 +3,9 @@
 
 This project explores how meteorological conditions (temperature, wind speed, wind direction) are associated with PM2.5 patterns at Sheffield Devonshire Green from **1 June 2023 to 31 May 2024**.
 
+Research Question: -	How are meteorological factors, specifically temperature, wind speed and wind direction, associated with PM2.5 patterns at Sheffield Devonshire Green?
+
+
 ## Data
 - **PM2.5:** OpenAQ (daily mean derived from timestamped observations)
 - **Meteorology:** OpenMeteo (daily mean temperature, wind speed, wind direction)
